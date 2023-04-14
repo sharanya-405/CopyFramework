@@ -7,5 +7,10 @@ public class Sample {
   public void ten()
   {
 	  System.out.println("haaaaaaaaaaaaiiiiiiiiii");
+	  
+	  System.out.println("byyeeeee");
+	  
+	  System.out.println("esgdgfgkhl");
+	  
   }
 }
